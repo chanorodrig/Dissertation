@@ -1,4 +1,4 @@
-This is TexpadTeX (based on TeX Version 3.14159265 with e-TeX extensions) running in extended mode (preloaded format=latex 2019.10.9)  25 JAN 2020 23:39
+This is TexpadTeX (based on TeX Version 3.14159265 with e-TeX extensions) running in extended mode (preloaded format=latex 2019.10.9)  26 JAN 2020 01:51
 **
 (Luciano_Rodriguez_Thesis.tex
 LaTeX2e <2017-04-15>
@@ -483,24 +483,10 @@ This is TexpadBibTeX (based on BibTeX 0.99d)
 The top-level auxiliary file: Luciano_Rodriguez_Thesis.aux 
 The style file: IEEEtranSN.bst
 Database file #1: References.bib.bib
-""" immediately follows a field part---line 20 of file References.bib.bib
- :   month        = aug
- :                     ",
-I'm skipping whatever remains of this entry
-Unbalanced braces---line 494 of file References.bib.bib
- :   title        = "{Outgoing Long Wave Radiation Equator Index}
- :                                                               },
-I'm skipping whatever remains of this entry
-Repeated entry---line 1791 of file References.bib.bib
- :  @article{jacox2016impacts
- :                           ,
-I'm skipping whatever remains of this entry
 -- IEEEtranSN.bst version 1.14 (2015/08/26) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
 ** Sorting Natbib version - not for normal IEEE work.
-Name 6 in "Vose, Russell S. and Applequist, Scott and Squires, Mike and Durre, Imke and Menne, Matthew J. and Williams, Claude N., and Fenimore, Chris and Gleason, Karin and Arndt, Derek" has a comma at the end for entry modeldata
-while executing---line 2858 of file IEEEtranSN.bst
 128 isn't valid ASCII
  for entry SOI_NINO_3.4data
 while executing---line 2864 of file IEEEtranSN.bst
@@ -535,17 +521,13 @@ while executing---line 2864 of file IEEEtranSN.bst
  for entry WPdata
 while executing---line 2864 of file IEEEtranSN.bst
 Warning--missing publisher in quinlan1993programs
-Name 6 in "Vose, Russell S. and Applequist, Scott and Squires, Mike and Durre, Imke and Menne, Matthew J. and Williams, Claude N., and Fenimore, Chris and Gleason, Karin and Arndt, Derek" has a comma at the end for entry modeldata
-while executing---line 2872 of file IEEEtranSN.bst
-Name 6 in "Vose, Russell S. and Applequist, Scott and Squires, Mike and Durre, Imke and Menne, Matthew J. and Williams, Claude N., and Fenimore, Chris and Gleason, Karin and Arndt, Derek" has a comma at the end for entry modeldata
-while executing---line 2872 of file IEEEtranSN.bst
 Warning--missing school in Zhang:1996aa
 
 Done.
-(There were 17 error messages)
+(There were 11 error messages)
 
 
-This is TexpadTeX (based on TeX Version 3.14159265 with e-TeX extensions) running in extended mode (preloaded format=latex 2019.10.9)  25 JAN 2020 23:39
+This is TexpadTeX (based on TeX Version 3.14159265 with e-TeX extensions) running in extended mode (preloaded format=latex 2019.10.9)  26 JAN 2020 01:51
 **
 (Luciano_Rodriguez_Thesis.tex
 LaTeX2e <2017-04-15>
@@ -1218,7 +1200,7 @@ Package natbib Warning: Citation(s) may have changed.
 ) )
 
 
-This is TexpadTeX (based on TeX Version 3.14159265 with e-TeX extensions) running in extended mode (preloaded format=latex 2019.10.9)  25 JAN 2020 23:39
+This is TexpadTeX (based on TeX Version 3.14159265 with e-TeX extensions) running in extended mode (preloaded format=latex 2019.10.9)  26 JAN 2020 01:51
 **
 (Luciano_Rodriguez_Thesis.tex
 LaTeX2e <2017-04-15>
